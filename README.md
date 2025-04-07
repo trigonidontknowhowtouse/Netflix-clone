@@ -14,8 +14,5 @@ https://nodejs.org/en/download/
 4. Type “  npm install  ” and press Enter and Wait for Installation to be completed (requires 
 Internet) 
 5. After Installation You will See ‘  node_modules  ’ Folder in the Sidebar 
-6. Create The Movie Database Access Token: 
-To create token watch below tutorial at timestamp: 1:36:20 
-https://www.youtube.com/watch?v=YQQD67N5pi0 
-7. Create a firebase project and copy firebase config code. 
-Watch above tutorial at timestamp: 2:17:42
+6. Create The Movie Database Access Token:
+7. Create a firebase project and copy firebase config code.
